@@ -6,6 +6,7 @@ The Clothes Recommender Chatbot is a bot developed using Botpress, StackAI, Zapi
 https://mediafiles.botpress.cloud/56ee9f19-c13a-445c-a83a-1c47bf210494/webchat/bot.html
 
 ##Video Demo Link
+https://drive.google.com/file/d/1UhZdiiGJVBZh78Tv6MFV2Tnqe8ofjzvR/view?usp=sharing
 
 ## Features
 
