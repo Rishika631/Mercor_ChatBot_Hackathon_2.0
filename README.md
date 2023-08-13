@@ -30,8 +30,12 @@ In the Zapier action, include the product details and the link to the product's 
 
 Test the Zap to ensure that the email is sent correctly.
 
+The below image is the flow of the chatbot made.
+![image](https://github.com/Rishika631/Mercor_ChatBot_Hackathon_2.0/assets/89201634/ea6375fc-3939-4703-9b87-d5ffaa9b3819)
+
+
 Credits
-Botpress: Link to Botpress GitHub
-StackAI: Link to StackAI Website
-OpenAI: Link to OpenAI Website
-Zapier: Link to Zapier Website
+Botpress: [Link to Botpress GitHub](https://github.com/botpress/botpress)
+StackAI: [Link to StackAI Website](https://www.stack-ai.com/)
+OpenAI: [Link to OpenAI Website](https://openai.com/)
+Zapier: [Link to Zapier Website](https://zapier.com/)https://zapier.com/
