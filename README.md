@@ -33,6 +33,10 @@ Test the Zap to ensure that the email is sent correctly.
 The below image is the flow of the chatbot made.
 ![image](https://github.com/Rishika631/Mercor_ChatBot_Hackathon_2.0/assets/89201634/ea6375fc-3939-4703-9b87-d5ffaa9b3819)
 
+StackAI model image:
+![image](https://github.com/Rishika631/Mercor_ChatBot_Hackathon_2.0/assets/89201634/ed7bf327-95d0-4e82-98d1-840e07f42201)
+
+
 
 Credits
 Botpress: [Link to Botpress GitHub](https://github.com/botpress/botpress)
