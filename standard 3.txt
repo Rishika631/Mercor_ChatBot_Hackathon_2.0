@@ -1,0 +1,17 @@
+Execute code for standard 3 node:
+const inputMessage = "Find me all the recommendation of a "+workflow.occasion+"with price range of"+workflow.price;
+const API_URL = "";
+const headers = {
+    'Authorization': 'Bearer XYZ',
+    'Content-Type': 'application/json'
+};
+const payload = {
+    "in-0": inputMessage
+};
+
+try {
+    const response = await axios.post(API_URL,  payload, { headers: headers });
+    workflow.stackAiResponse = response.data["out-0"];
+} catch (error) {
+    throw new Error(`Error in Stack AI: ${error}`)
+}
