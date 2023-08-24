@@ -41,6 +41,9 @@ StackAI model image:
 
 Credits
 Botpress: [Link to Botpress GitHub](https://github.com/botpress/botpress)
+
 StackAI: [Link to StackAI Website](https://www.stack-ai.com/)
+
 OpenAI: [Link to OpenAI Website](https://openai.com/)
+
 Zapier: [Link to Zapier Website](https://zapier.com/)https://zapier.com/
